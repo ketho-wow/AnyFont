@@ -1,5 +1,5 @@
-## Interface: 70000
-## Version: 1.0
+## Interface: 70100
+## Version: @project-version@
 ## Title: AnyFont
 
 AnyFont.lua
