@@ -1,9 +1,10 @@
-## Interface-Retail: 90005
-## Interface-Classic: 11307
-## Interface-BC: 20501
+## Interface: 100002
+## Interface-Wrath: 30400
+## Interface-Classic: 11403
 ## Version: @project-version@
 ## Title: AnyFont
 ## X-Curse-Project-ID: 101203
 ## X-WoWI-ID: 23907
+## X-Wago-ID: 5bGoLYN0
 
 AnyFont.lua
